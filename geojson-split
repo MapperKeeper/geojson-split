@@ -1,0 +1,14 @@
+#!/usr/bin/env node
+
+var geojsonStream = require('geojson-stream'),
+  through = require('through'),
+  fs = require('fs'),
+  argv = require('minimist')(process.argv.slice(2)),
+  Stringify = require('streaming-json-stringify');
+
+process.stdin.pipe(geojsonStream.parse())
+  .pipe(through(function(feature) {
+    this.push(feature.properties);
+  }))
+  .pipe(Stringify())
+  .pipe(process.stdout);

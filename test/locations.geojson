@@ -1,0 +1,79 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-124.04665509574059, 44.61670558161444]
+    },
+    "properties": {
+      "address": "Oregon Coast Aquarium 2820 SE Ferry Slip Rd, Newport, Oregon",
+      "marker-size": "large",
+      "marker-symbol": "aquarium",
+      "marker-color": "00abe3",
+      "mkuuid": "dc6bedbc-d3cb-48ec-aba5-fe980cc23f79",
+      "name": "Oregon Coast Aquarium",
+      "description": "http://aquarium.org/"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-124.04503266475736, 44.62279893886685]
+    },
+    "properties": {
+      "address": "Hatfield Marine Science Center 2030 SE Marine Science Dr, Newport, Oregon",
+      "marker-size": "large",
+      "marker-symbol": "aquarium",
+      "marker-color": "dc4405",
+      "mkuuid": "a513aa7a-da58-43e9-97cc-c1b60cd85e52",
+      "name": "Hatfield Marine Science Center",
+      "description": "http://hmsc.oregonstate.edu/"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.66565997199973, 45.50882794500046]
+    },
+    "properties": {
+      "address": "Omsi Science Store 1945 SE Water Ave, Portland, Oregon",
+      "marker-size": "large",
+      "marker-symbol": "rocket",
+      "marker-color": "e4002b",
+      "mkuuid": "4527f5c8-2d8a-4504-bb76-8cce0783f91f",
+      "name": "OMSI",
+      "description": "https://omsi.edu/"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-123.96923652877851, 45.36493516943068]
+    },
+    "properties": {
+      "address": "Cape Lookout, Oregon, United States ",
+      "marker-size": "large",
+      "marker-symbol": "campsite",
+      "marker-color": "0c797d",
+      "mkuuid": "113f2e93-4032-4645-8e86-3ef0ba1cc773",
+      "name": "Cape Lookout State Park",
+      "description": "http://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=134"
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-122.71617698899966, 45.510137329000514]
+    },
+    "properties": {
+      "address": "Oregon Zoo 4001 SW Canyon Rd Portland, OR 97221",
+      "marker-size": "large",
+      "marker-symbol": "zoo",
+      "marker-color": "000000",
+      "mkuuid": "739239fa-104c-4d0c-8046-75f547ee994d",
+      "name": "Oregon Zoo",
+      "description": "http://www.oregonzoo.org/"
+    }
+  }]
+}
