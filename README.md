@@ -16,7 +16,7 @@ many features have complex geometries that can overwhelm your text editor.  This
 tiny script pulls the properties object from your GeoJSON and streams them to
 a new JSON file.
 
-Now, you can edit your GeoJSON properties without needing to load of the geometry
+Now, you can edit your GeoJSON properties without needing to load all the geometry
 information.
 
 ## Next Steps
