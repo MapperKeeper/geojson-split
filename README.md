@@ -22,4 +22,4 @@ information.
 ## Next Steps
 
 After modifying your properties, you can join them back to your original GeoJSON
-file using [geojson-join] from [Tom MacWright](https://github.com/tmcw).
+file using [geojson-join](https://www.npmjs.com/package/geojson-join) from [Tom MacWright](https://github.com/tmcw).
