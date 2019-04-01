@@ -3,7 +3,7 @@
 Split properties from a stream of GeoJSON
 
 ```sh
-$ geojson-split < ./test/locations.geojson > ./test/properties.json
+$ geojson-split ./test/locations.geojson > ./test/properties.json
 ```
 
 [GeoJSON](http://geojson.org/) is great.  It is a simple standard format for
